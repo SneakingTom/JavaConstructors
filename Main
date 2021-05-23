@@ -1,0 +1,14 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Singer singer1 = new Singer("Rick",55,178);
+		Singer singer2 = new Singer("Astley",34,949); 
+		
+		singer1.rickroll();
+		singer2.sing();
+
+	}
+
+}
